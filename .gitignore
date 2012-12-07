@@ -1,5 +1,8 @@
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+libmultichoose.a
 multichoose
+multipermute
 cmultichoose
-tad
-.*swp
-*.pyc
