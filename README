@@ -8,6 +8,7 @@ This is a small C++ library/program which contains a generic function to
 generate multisets for vectors of any type of object.  You can test out the
 program using strings input from the command line by typing:
 
+	% cmake .
     % make
 
 Running:
